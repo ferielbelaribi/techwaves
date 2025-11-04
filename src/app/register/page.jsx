@@ -1,8 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import Header from '@/components/Header'
-import Footer from '@/components/Footer'
+
 
 
 export default function Register() {
@@ -79,8 +78,7 @@ export default function Register() {
   }
 
   return (
-    <Header />
-    <main>
+
     <div className="min-h-screen bg-gradient-to-br from-slate-950 via-gray-900 to-slate-950 relative overflow-hidden py-20">
       {/* Animated background */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
@@ -354,7 +352,6 @@ export default function Register() {
         </div>
       </div>
     </div>
-      <Footer />
-      </main>
+
   )
 }
