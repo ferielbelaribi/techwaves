@@ -134,7 +134,7 @@ const TeamShowcase = () => {
     },
     { 
       id: 4, 
-      name: 'Bouchama Rym Ines', 
+      name: 'Bouchama Rym ines', 
       role: 'CO-Leader of IT & Development Department', 
       linkedin: 'https://www.linkedin.com/in/rym-bouchama-04295130b',
       image: '/team/Rym.png',
